@@ -1,4 +1,4 @@
-# ![Image](./img/dio.png?raw=true) DIO - Digital Innovation One
+# ![Image](./img/dio.png?raw=true)DIO-Digital Innovation One
 # ![Image](./img/everis.jpg?raw=true) Bootcamp everis FullStack Developer 
 
 
